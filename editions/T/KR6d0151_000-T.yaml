@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0151/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 諸法無諍三昧法門
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1923.xml
+    old_id: T46n1923
+hash: sha256:8d206da5e5bf92ef6a597d222934b3d9b17a2433ef303a0d600f08d61ee181ee

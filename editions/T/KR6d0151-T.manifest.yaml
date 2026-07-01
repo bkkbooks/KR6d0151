@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR6d0151/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0151/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 諸法無諍三昧法門
+  identifiers:
+    krp: KR6d0151
+    cbeta: T46n1923
+    cbeta_old_id: T46n1923
+    authorityid: CA0004126
+    json_key: T1923
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1923.xml
+    old_id: T46n1923
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0151_000-T.yaml, hash: 'sha256:8d206da5e5bf92ef6a597d222934b3d9b17a2433ef303a0d600f08d61ee181ee'}
+  - {seq: 1, filename: KR6d0151_001-T.yaml, hash: 'sha256:ca1e979a1c7dabf0254c2f118e696c26be2029fc5d9f1cba014658677f828017'}
+  - {seq: 2, filename: KR6d0151_002-T.yaml, hash: 'sha256:cc2bc8ff400919edf020c76e81320093d1404b439b2a20bdf2cc726aa51f05eb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0151_000-T.markers.yaml, hash: 'sha256:e65775ca3544f9a675579ed790f72f844d64d4b89e7733dd9dd10b85cccb305f'}
+  - {seq: 1, role: markers, filename: assets/KR6d0151_001-T.markers.yaml, hash: 'sha256:2a52a318c366e18206684fa4e7f78de05d86989266ca22601a3f866974ed1afe'}
+  - {seq: 2, role: markers, filename: assets/KR6d0151_002-T.markers.yaml, hash: 'sha256:38d54ce7b6f026147437a6eccd4e374d10726a904fdf63a69c06eac78a171989'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0151_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7229
+  label: 諸法無諍三昧法門卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0151_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10849
+  label: 諸法無諍三昧法門卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0151_T_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 四念處觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0151_T_002-mulu-2
+    span:
+    - body
+    - 12
+    - 12
+  label: 身念處觀如音品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0151_T_002-mulu-3
+    span:
+    - body
+    - 1085
+    - 1085
+  label: 受念處品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0151_T_002-mulu-4
+    span:
+    - body
+    - 4917
+    - 4917
+  label: 心念處品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0151_T_002-mulu-5
+    span:
+    - body
+    - 7397
+    - 7397
+  label: 法念處品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0151_T_002-mulu-6
+    span:
+    - body
+    - 10355
+    - 10355
+  label: 坐禪修覺意
+  type: mulu
+  level: 1
+hash: sha256:df0f3f1fee9d6483b68cda5ba859deb23115450f7b752fd1b133b6e00faffded
